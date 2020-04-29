@@ -7,6 +7,7 @@ Using Tensorflow 2 to make an implementation of the paper:
 ## Prerequisites 
 
 ```
+python     v3.5.2
 tensorflow v2.1.0
 matplotlib v3.0.3
 numpy      v1.18.2
