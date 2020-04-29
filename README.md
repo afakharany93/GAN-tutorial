@@ -1,6 +1,6 @@
 # GAN Tutorial
 
-An implemntation of the paper: 
+Using Tensorflow 2 to make an implementation of the paper: 
 
 [Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. & Bengio, Y. (2014). Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
@@ -17,6 +17,8 @@ numpy      v1.18.2
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
+
+Thanks to these github users, their code about GANs helped me a lot.  
 
 * [eng-amrahmed](https://github.com/eng-amrahmed/vanilla-gan-tf2)
 * [thisisiron](https://github.com/thisisiron/TF2-GAN/tree/master/gan)
