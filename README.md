@@ -6,11 +6,12 @@ An implemntation of the paper:
 
 ## Prerequisites 
 
-'''
+```
 tensorflow v2.1.0
 matplotlib v3.0.3
 numpy      v1.18.2
-'''
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
