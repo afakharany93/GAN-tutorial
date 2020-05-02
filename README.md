@@ -23,3 +23,4 @@ Thanks to these github users, their code about GANs helped me a lot.
 
 * [eng-amrahmed](https://github.com/eng-amrahmed/vanilla-gan-tf2)
 * [thisisiron](https://github.com/thisisiron/TF2-GAN/tree/master/gan)
+* [Sdhir](https://github.com/Sdhir/Kernel-Density-Estimation-using-Mixture-of-Gaussians)
